@@ -1,0 +1,15 @@
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\bin\Debug\net6.0\AdapterAutenticacion.exe
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\bin\Debug\net6.0\AdapterAutenticacion.deps.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\bin\Debug\net6.0\AdapterAutenticacion.runtimeconfig.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\bin\Debug\net6.0\AdapterAutenticacion.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\bin\Debug\net6.0\AdapterAutenticacion.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\AdapterAutenticacion.csproj.AssemblyReference.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\AdapterAutenticacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\AdapterAutenticacion.AssemblyInfoInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\AdapterAutenticacion.AssemblyInfo.cs
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\AdapterAutenticacion.csproj.CoreCompileInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\AdapterAutenticacion.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\refint\AdapterAutenticacion.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\AdapterAutenticacion.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\AdapterAutenticacion.genruntimeconfig.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAutenticacion\obj\Debug\net6.0\ref\AdapterAutenticacion.dll

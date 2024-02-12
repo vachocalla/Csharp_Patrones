@@ -1,0 +1,15 @@
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\bin\Debug\net6.0\Decorator2Pizza.exe
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\bin\Debug\net6.0\Decorator2Pizza.deps.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\bin\Debug\net6.0\Decorator2Pizza.runtimeconfig.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\bin\Debug\net6.0\Decorator2Pizza.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\bin\Debug\net6.0\Decorator2Pizza.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\Decorator2Pizza.csproj.AssemblyReference.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\Decorator2Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\Decorator2Pizza.AssemblyInfoInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\Decorator2Pizza.AssemblyInfo.cs
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\Decorator2Pizza.csproj.CoreCompileInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\Decorator2Pizza.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\refint\Decorator2Pizza.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\Decorator2Pizza.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\Decorator2Pizza.genruntimeconfig.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator2Pizza\obj\Debug\net6.0\ref\Decorator2Pizza.dll

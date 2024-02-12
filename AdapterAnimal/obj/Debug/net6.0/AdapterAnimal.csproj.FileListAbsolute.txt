@@ -1,0 +1,15 @@
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\AdapterAnimal.csproj.AssemblyReference.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\AdapterAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\AdapterAnimal.AssemblyInfoInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\AdapterAnimal.AssemblyInfo.cs
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\AdapterAnimal.csproj.CoreCompileInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\bin\Debug\net6.0\AdapterAnimal.exe
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\bin\Debug\net6.0\AdapterAnimal.deps.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\bin\Debug\net6.0\AdapterAnimal.runtimeconfig.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\bin\Debug\net6.0\AdapterAnimal.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\bin\Debug\net6.0\AdapterAnimal.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\AdapterAnimal.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\refint\AdapterAnimal.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\AdapterAnimal.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\AdapterAnimal.genruntimeconfig.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterAnimal\obj\Debug\net6.0\ref\AdapterAnimal.dll

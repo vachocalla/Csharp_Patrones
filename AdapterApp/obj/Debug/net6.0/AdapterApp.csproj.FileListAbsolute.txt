@@ -1,0 +1,15 @@
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\bin\Debug\net6.0\AdapterApp.exe
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\bin\Debug\net6.0\AdapterApp.deps.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\bin\Debug\net6.0\AdapterApp.runtimeconfig.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\bin\Debug\net6.0\AdapterApp.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\bin\Debug\net6.0\AdapterApp.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\AdapterApp.csproj.AssemblyReference.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\AdapterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\AdapterApp.AssemblyInfoInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\AdapterApp.AssemblyInfo.cs
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\AdapterApp.csproj.CoreCompileInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\AdapterApp.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\refint\AdapterApp.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\AdapterApp.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\AdapterApp.genruntimeconfig.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterApp\obj\Debug\net6.0\ref\AdapterApp.dll

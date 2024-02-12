@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AdapterAutenticacion/1.0.0": {
+        "runtime": {
+          "AdapterAutenticacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdapterAutenticacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

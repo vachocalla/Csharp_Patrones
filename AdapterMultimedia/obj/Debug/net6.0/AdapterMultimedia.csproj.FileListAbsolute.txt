@@ -1,0 +1,15 @@
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\AdapterMultimedia.csproj.AssemblyReference.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\AdapterMultimedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\AdapterMultimedia.AssemblyInfoInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\AdapterMultimedia.AssemblyInfo.cs
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\AdapterMultimedia.csproj.CoreCompileInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\bin\Debug\net6.0\AdapterMultimedia.exe
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\bin\Debug\net6.0\AdapterMultimedia.deps.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\bin\Debug\net6.0\AdapterMultimedia.runtimeconfig.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\bin\Debug\net6.0\AdapterMultimedia.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\bin\Debug\net6.0\AdapterMultimedia.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\AdapterMultimedia.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\refint\AdapterMultimedia.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\AdapterMultimedia.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\AdapterMultimedia.genruntimeconfig.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\AdapterMultimedia\obj\Debug\net6.0\ref\AdapterMultimedia.dll

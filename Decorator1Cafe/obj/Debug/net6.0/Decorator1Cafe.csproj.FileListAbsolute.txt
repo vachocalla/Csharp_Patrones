@@ -1,0 +1,15 @@
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\bin\Debug\net6.0\Decorator1Cafe.exe
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\bin\Debug\net6.0\Decorator1Cafe.deps.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\bin\Debug\net6.0\Decorator1Cafe.runtimeconfig.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\bin\Debug\net6.0\Decorator1Cafe.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\bin\Debug\net6.0\Decorator1Cafe.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\Decorator1Cafe.csproj.AssemblyReference.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\Decorator1Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\Decorator1Cafe.AssemblyInfoInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\Decorator1Cafe.AssemblyInfo.cs
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\Decorator1Cafe.csproj.CoreCompileInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\Decorator1Cafe.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\refint\Decorator1Cafe.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\Decorator1Cafe.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\Decorator1Cafe.genruntimeconfig.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\Decorator1Cafe\obj\Debug\net6.0\ref\Decorator1Cafe.dll
