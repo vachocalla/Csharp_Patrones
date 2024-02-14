@@ -1,0 +1,15 @@
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\bin\Debug\net6.0\StrategyMetodoPago.exe
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\bin\Debug\net6.0\StrategyMetodoPago.deps.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\bin\Debug\net6.0\StrategyMetodoPago.runtimeconfig.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\bin\Debug\net6.0\StrategyMetodoPago.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\bin\Debug\net6.0\StrategyMetodoPago.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\StrategyMetodoPago.csproj.AssemblyReference.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\StrategyMetodoPago.GeneratedMSBuildEditorConfig.editorconfig
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\StrategyMetodoPago.AssemblyInfoInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\StrategyMetodoPago.AssemblyInfo.cs
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\StrategyMetodoPago.csproj.CoreCompileInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\StrategyMetodoPago.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\refint\StrategyMetodoPago.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\StrategyMetodoPago.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\StrategyMetodoPago.genruntimeconfig.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyMetodoPago\obj\Debug\net6.0\ref\StrategyMetodoPago.dll

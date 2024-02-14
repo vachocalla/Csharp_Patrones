@@ -1,2 +1,2 @@
-# Csharp_Patrones
-Csharp_Patrones
+# PatronDecoratorCsharp
+PatronDecoratorCsharp

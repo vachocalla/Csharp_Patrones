@@ -1,0 +1,15 @@
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\bin\Debug\net6.0\StrategyCalculadorImpuestos.exe
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\bin\Debug\net6.0\StrategyCalculadorImpuestos.deps.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\bin\Debug\net6.0\StrategyCalculadorImpuestos.runtimeconfig.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\bin\Debug\net6.0\StrategyCalculadorImpuestos.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\bin\Debug\net6.0\StrategyCalculadorImpuestos.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\StrategyCalculadorImpuestos.csproj.AssemblyReference.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\StrategyCalculadorImpuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\StrategyCalculadorImpuestos.AssemblyInfoInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\StrategyCalculadorImpuestos.AssemblyInfo.cs
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\StrategyCalculadorImpuestos.csproj.CoreCompileInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\StrategyCalculadorImpuestos.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\refint\StrategyCalculadorImpuestos.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\StrategyCalculadorImpuestos.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\StrategyCalculadorImpuestos.genruntimeconfig.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyCalculadorImpuestos\obj\Debug\net6.0\ref\StrategyCalculadorImpuestos.dll

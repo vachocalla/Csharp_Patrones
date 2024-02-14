@@ -1,0 +1,15 @@
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\bin\Debug\net6.0\StrategyApp.exe
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\bin\Debug\net6.0\StrategyApp.deps.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\bin\Debug\net6.0\StrategyApp.runtimeconfig.json
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\bin\Debug\net6.0\StrategyApp.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\bin\Debug\net6.0\StrategyApp.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\StrategyApp.csproj.AssemblyReference.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\StrategyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\StrategyApp.AssemblyInfoInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\StrategyApp.AssemblyInfo.cs
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\StrategyApp.csproj.CoreCompileInputs.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\StrategyApp.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\refint\StrategyApp.dll
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\StrategyApp.pdb
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\StrategyApp.genruntimeconfig.cache
+C:\FL\PatronesDiseno\c#\PatronesDiseno\StrategyApp\obj\Debug\net6.0\ref\StrategyApp.dll
